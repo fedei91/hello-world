@@ -1,1 +1,2 @@
-alert("Hello User!");
+const userName = prompt('Enter your name');
+alert(`Hello ${userName}!`);
